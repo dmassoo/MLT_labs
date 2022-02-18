@@ -1,2 +1,2 @@
 # MLT_labs
-This repo hold colabs with MLT course lab works (ITMO feb 2022)
+This repo holds colab notebooks with MLT course practical tasks (ITMO feb 2022)
